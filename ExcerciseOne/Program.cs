@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-Console.WriteLine("Hello, World!");
-
 int[] list1 = new int[] { 1, 2, 3, 4, 5 };
 int[] list2 = new int[] { 3, 4, 5, 6, 7 };
 
